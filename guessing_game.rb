@@ -119,13 +119,3 @@ def start_game
 end
 
 start_game
-
-
-
-
-
-
-
-
-
- 
